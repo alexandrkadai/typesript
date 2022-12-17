@@ -1,1 +1,2 @@
-const lastVideo = 10;
+const NexVideoIs = 15;
+const time = 3.53;
