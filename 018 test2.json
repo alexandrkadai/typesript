@@ -1,7 +1,7 @@
 /* Запрос */
 {
 	"topicId": 5,
-	"status": "published" // "draft", "deleted", optional
+	"status": "published" /* "draft", "deleted", optional */
 }
 /* Ответ */
 [
